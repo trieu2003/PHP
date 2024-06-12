@@ -1,0 +1,1 @@
+<div class="text-center text-light">Copyright &copy; 2024 HUIT. All rights reserved.</div>
