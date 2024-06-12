@@ -1,0 +1,10 @@
+HƯỚNG DẪN SỬ DỤNG WEBSITE
+Mở cài đặt trình duyệt  Quyền riêng tư và bảo mật  Bảo mật  Chọn không được bảo vệ
+Đăng nhập
+●	Sử dụng tên đăng nhập : admin với mật khẩu admin123 dùng để vào trang dành cho admin
+●	Sử dụng tên đăng nhập : teacher1 với mật khẩu teacher123 để dùng để vào trang dành cho giáo viên
+●	Sử dụng tên đăng nhập : 2001211000 với mật khẩu 123456 để dùng để vào trang dành cho sinh viên
+
+Các link
+	github: https://github.com/trieu2003/PHP.git
+	Link đồ án : https://lantrieunamnhom13chungminhconhau.000webhostapp.com/
